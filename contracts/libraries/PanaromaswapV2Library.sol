@@ -1,6 +1,7 @@
 pragma solidity >=0.5.0;
 
 import 'panaromaswap_v2core/contracts/interfaces/IPanaromaswapV2Pair.sol';
+import 'panaromaswap_v2core/contracts/interfaces/IPanaromaswapV2Factory.sol';
 
 import "./SafeMath.sol";
 
