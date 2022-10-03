@@ -1,6 +1,6 @@
 {
   "name": "panaromaswap_v2periphery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Peripheral smart contracts for Panaromaswap V2",
   "engines": {
     "node": ">=10"
